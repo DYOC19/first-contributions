@@ -6,3 +6,4 @@
 [Valeria]_(https://github.com/Vale3942)
 - [Julianna]{https://github.com/jnunez116)
 [Edwin](https://github.com/rivera6)
+[Derek](https://github.com/DYOC19)
